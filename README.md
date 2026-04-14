@@ -2,6 +2,10 @@
 
 面向中国教师科研训练与写作加速场景的 AIGC 科研写作工作台。
 
+## 项目预览
+
+![Teacher Research Workbench Preview](assets/readme/workbench-overview.svg)
+
 ## 系统定位
 
 - 不是一键代写平台
@@ -21,6 +25,19 @@
    对整篇项目中的各模块内容做优化，并导出 Markdown / DOCX。
 5. 设置  
    在页面内直接配置模型 Provider、Base URL、Model、API Key，并管理项目保存/加载。
+
+## 功能流程图
+
+```mermaid
+flowchart TD
+    A["选题助手<br/>生成 TopicCard，确认正式选题"] --> B["文献工作台<br/>上传 PDF，本地预处理，AI 文献分析"]
+    B --> C["写作工作台<br/>确定写作依据，补充材料"]
+    C --> D["AI 推荐搭建顺序<br/>选择本次要写的论文部分"]
+    D --> E["生成并编辑当前论文部分<br/>逐块保存到 writing_assets"]
+    E --> F["整篇论文进度面板<br/>查看已完成 / 当前正在写 / 下一步建议"]
+    F --> G["润色与导出<br/>逐模块优化并导出 Markdown / DOCX"]
+    G --> H["设置<br/>配置 Provider、Model、API Key，管理项目保存/加载"]
+```
 
 ## 运行前准备
 
@@ -188,27 +205,3 @@ docker compose up --build
    - Base URL
    - Model
    - API Key
-
-### 推送到 GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial open-source release"
-git branch -M main
-git remote add origin https://github.com/<your-name>/<repo-name>.git
-git push -u origin main
-```
-
-### 后续版本同步
-
-以后直接在这个 GitHub 仓库目录中继续开发，不需要再新建一个同步文件夹。
-
-每次更新后执行：
-
-```bash
-git status
-git add .
-git commit -m "Describe your change"
-git push
-```

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" fill="none">
+  <rect width="1440" height="900" fill="#F4F7FB"/>
+  <rect x="36" y="26" width="1368" height="92" rx="18" fill="url(#header)"/>
+  <text x="68" y="74" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">AIGC 科研写作工作台 2.0</text>
+  <text x="68" y="100" fill="#526174" font-family="Segoe UI, Arial, sans-serif" font-size="18">教师科研训练与写作加速平台</text>
+
+  <rect x="36" y="142" width="286" height="704" rx="18" fill="#EEF4FB" stroke="#DBE5F1"/>
+  <text x="68" y="198" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">工作流导航</text>
+
+  <rect x="68" y="236" width="180" height="52" rx="12" fill="#306CFF"/>
+  <text x="95" y="269" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">选题助手</text>
+
+  <rect x="68" y="306" width="180" height="52" rx="12" fill="#FFFFFF" stroke="#D7E1EE"/>
+  <text x="95" y="339" fill="#1F2937" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">文献工作台</text>
+
+  <rect x="68" y="376" width="180" height="52" rx="12" fill="#FFFFFF" stroke="#D7E1EE"/>
+  <text x="95" y="409" fill="#1F2937" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">写作工作台</text>
+
+  <rect x="68" y="446" width="180" height="52" rx="12" fill="#FFFFFF" stroke="#D7E1EE"/>
+  <text x="95" y="479" fill="#1F2937" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">润色与导出</text>
+
+  <line x1="68" y1="566" x2="250" y2="566" stroke="#D7E1EE"/>
+  <text x="68" y="610" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif" font-size="18">建议按“选题 → 文献 → 写作 → 导出”完成</text>
+  <rect x="68" y="720" width="54" height="54" rx="12" fill="#FFFFFF" stroke="#D7E1EE"/>
+  <text x="85" y="754" fill="#1F2937" font-family="Segoe UI Emoji, Segoe UI Symbol, Arial, sans-serif" font-size="26">⚙</text>
+
+  <rect x="352" y="142" width="1052" height="704" rx="18" fill="#FFFFFF" stroke="#E3E8EF"/>
+  <text x="392" y="206" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">写作工作台</text>
+  <text x="392" y="238" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="19">按论文写作 SOP 搭建整篇草稿，而不是一次性生成全文。</text>
+
+  <rect x="392" y="272" width="972" height="92" rx="16" fill="#F8FBFF" stroke="#D7E1EE"/>
+  <text x="424" y="315" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">步骤切换</text>
+  <text x="424" y="346" fill="#306CFF" font-family="Segoe UI, Arial, sans-serif" font-size="18">步骤 1：本次写作依据</text>
+  <text x="682" y="346" fill="#526174" font-family="Segoe UI, Arial, sans-serif" font-size="18">步骤 2：补充写作材料</text>
+  <text x="960" y="346" fill="#526174" font-family="Segoe UI, Arial, sans-serif" font-size="18">步骤 3：选择论文部分</text>
+
+  <rect x="392" y="392" width="972" height="184" rx="16" fill="#FBFCFE" stroke="#E4E9F1"/>
+  <text x="424" y="438" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">本次写作采用依据</text>
+  <text x="424" y="476" fill="#526174" font-family="Segoe UI, Arial, sans-serif" font-size="19">来自文献工作台：高频主题、研究不足、可写切入点</text>
+  <text x="424" y="510" fill="#526174" font-family="Segoe UI, Arial, sans-serif" font-size="19">来自教师本人：学校/课程/项目背景、真实案例、研究边界</text>
+  <rect x="424" y="530" width="220" height="28" rx="14" fill="#E9F2FF"/>
+  <text x="446" y="550" fill="#306CFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">已选高频主题 × 2</text>
+  <rect x="660" y="530" width="220" height="28" rx="14" fill="#EAF8F1"/>
+  <text x="682" y="550" fill="#0E9F6E" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">已选研究不足 × 1</text>
+  <rect x="896" y="530" width="220" height="28" rx="14" fill="#FFF5E8"/>
+  <text x="918" y="550" fill="#D97706" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">补充真实背景</text>
+
+  <rect x="392" y="602" width="468" height="208" rx="16" fill="#FBFCFE" stroke="#E4E9F1"/>
+  <text x="424" y="648" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">AI 推荐搭建顺序</text>
+  <text x="424" y="686" fill="#526174" font-family="Segoe UI, Arial, sans-serif" font-size="19">1. 论文整体提纲</text>
+  <text x="424" y="718" fill="#526174" font-family="Segoe UI, Arial, sans-serif" font-size="19">2. 引言/问题提出</text>
+  <text x="424" y="750" fill="#526174" font-family="Segoe UI, Arial, sans-serif" font-size="19">3. 文献综述提纲</text>
+  <rect x="424" y="768" width="188" height="30" rx="15" fill="#306CFF"/>
+  <text x="450" y="789" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">采用建议并开始写</text>
+
+  <rect x="896" y="602" width="468" height="208" rx="16" fill="#FBFCFE" stroke="#E4E9F1"/>
+  <text x="928" y="648" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">当前论文部分</text>
+  <text x="928" y="686" fill="#526174" font-family="Segoe UI, Arial, sans-serif" font-size="19">论文整体提纲 · paper_outline</text>
+  <text x="928" y="718" fill="#0E9F6E" font-family="Segoe UI, Arial, sans-serif" font-size="19">输出类型：结构骨架</text>
+  <text x="928" y="750" fill="#526174" font-family="Segoe UI, Arial, sans-serif" font-size="19">建议先搭清一级结构，再逐段扩写正文。</text>
+  <rect x="928" y="768" width="156" height="30" rx="15" fill="#F1F5F9"/>
+  <text x="952" y="789" fill="#1F2937" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">编辑并保存</text>
+
+  <defs>
+    <linearGradient id="header" x1="36" y1="26" x2="1404" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EDF4FF"/>
+      <stop offset="0.65" stop-color="#F7FAFF"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+</svg>
